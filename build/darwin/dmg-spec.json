@@ -1,0 +1,7 @@
+{
+  "title": "ApiValidator",
+  "contents": [
+    { "x": 448, "y": 144, "type": "link", "path": "/Applications" },
+    { "x": 192, "y": 144, "type": "file", "path": "ApiValidator.app" }
+  ]
+}
