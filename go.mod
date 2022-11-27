@@ -3,8 +3,8 @@ module apivalidator
 go 1.19
 
 require (
+	github.com/invopop/yaml v0.2.0
 	github.com/getkin/kin-openapi v0.109.0
-	github.com/invopop/yaml v0.1.0
 	github.com/wailsapp/wails/v2 v2.1.0
 )
 
